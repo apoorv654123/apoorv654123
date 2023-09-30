@@ -1,9 +1,5 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CBCF7&center=true&width=435&lines=Hi+Everyone!+%F0%9F%91%8B+I+am+APOORV;I+am+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 
-<!--
-**Sam654123/Sam654123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
