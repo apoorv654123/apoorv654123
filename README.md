@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CBCF7&center=true&width=435&lines=Hi+Everyone!+%F0%9F%91%8B+I+am+APOORV;I+am+a+Full+Stack+Developer" alt="Typing SVG" />
 <img src="./images/Banner.png" width="100%" alt="Banner">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" align="right" width=50%>
+<img src="./gif/coworking.gif" align="right" width=50%>
 
 - 🪴 I am Learning Full Stack Development
 - 🔭 I also know DSA in Cpp
@@ -65,3 +65,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sam654123&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="150" alt="stat graph" />
   <img src="https://streak-stats.demolab.com?user=Sam654123&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
