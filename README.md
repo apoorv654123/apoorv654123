@@ -66,3 +66,5 @@
   <img src="https://streak-stats.demolab.com?user=Sam654123&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+## 🎒Badges
+[![An image of @sam654123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sam654123)](https://holopin.io/@sam654123)
