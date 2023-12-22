@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2CBCF7&center=true&width=435&lines=Hi+Everyone!+%F0%9F%91%8B+I+am+APOORV;I+am+a+Full+Stack+Developer" alt="Typing SVG" />
-<img src="./images/Banner.png" width="100%" alt="Banner">
+<a href="apoorv654123@gmail.com"><img src="./images/Banner.png" width="100%" alt="Banner"></a>
 
 <img src="./gif/coworking.gif" align="right" width=50%>
 
