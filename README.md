@@ -4,7 +4,7 @@
 <img src="./gif/coworking.gif" align="right" width=50%>
 
 - 🪴 I am Learning Full Stack Development
-- 🔭 I also know DSA in Cpp
+- 🔭 I know DSA
 - 💻 Always Eager to Learn
 - 🚀 Feel free to Contribute or raise Issues in my Repo’s
 - 😄 Ask me anything
