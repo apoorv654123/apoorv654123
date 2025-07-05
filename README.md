@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30" alt="tailwindcss logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30" alt="bootstrap logo"  />
   <img width="12" />
